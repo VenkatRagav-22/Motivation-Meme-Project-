@@ -7,9 +7,6 @@ html,body{
     background-blend-mode: overlay;
   }
 
-
-*{align-items: center}
-
 @import url('https://fonts.cdnfonts.com/css/blood-crow');
 
 h1{
@@ -20,7 +17,7 @@ h1{
     text-transform: uppercase;
 }
 h2{
-color: coral; 
+color: cornsilk; 
 text-align: center;
 font-family: "Bad Script", cursive ,;
     font-weight: 500;
