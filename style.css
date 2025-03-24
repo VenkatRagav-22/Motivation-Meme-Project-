@@ -12,7 +12,7 @@ html,body{
 h1{
     font-family: 'Blood Crow', sans-serif;
     font-weight: 100;
-    color: coral;
+    color: azure;
     text-align: center;
     text-transform: uppercase;
 }
@@ -25,7 +25,7 @@ font-family: "Bad Script", cursive ,;
 }
 
 h3{
-    color: cornsilk;
+    color: coral;
     text-align: center;
     font-family: "Bad Script", cursive, sans-serif;
     font-weight: 400;
@@ -47,7 +47,7 @@ div
 }
 
 p{
-    color: coral;
+    color: beige;
     text-align: center;
     text-transform: uppercase;
     font-family: "Bad Script", cursive ,sans-serif;
